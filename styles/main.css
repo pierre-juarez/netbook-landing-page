@@ -177,8 +177,8 @@ background: linear-gradient(311.76deg, #D4E7FE -15.24%, #FFFFFF 78.85%);
 }
 
 .hero__description {
-  font-size: 0.125rem;
-  margin-bottom: 2.5 rem;
+  font-size: 1.125rem;
+  margin-bottom: 2.5rem;
 }
 
 .hero__cta {
